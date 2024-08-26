@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frerichardjr&label=Visitors&countColor=%23263759&style=plastic)
+
 <!--
 **rerichardjr/rerichardjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
